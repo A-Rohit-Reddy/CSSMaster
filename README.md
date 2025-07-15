@@ -48,8 +48,6 @@ The task folder in your repo should contain the 5 folders ( each corresponding t
 
 Try minimalising your code to make your case strong, use single `<div>`, try unique apparoches to make your case strong.  
 
----
-
 Let the trials begin !!   
 Think beyond boxes, bend the borders, and battle like a true CSS warrior.
 
