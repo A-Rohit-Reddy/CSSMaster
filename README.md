@@ -31,7 +31,7 @@ In this advanced edition, you'll push the limits of what’s possible with CSS w
 
 ## Submission guidelines
 
-The task folder in your repo should contain the 5 folders ( each corresponding to the respective challenge ), and each folder should contain the code and screenshot of the output. 
+The task folder in your repo should contain the 10 folders ( each corresponding to the respective challenge ), and each folder should contain the code and screenshot of the output. 
 
 ---
 
