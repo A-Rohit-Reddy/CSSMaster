@@ -21,7 +21,7 @@ In this advanced edition, you'll push the limits of what’s possible with CSS w
 ## 🛠️ Instructions
 
 1. Visit [https://cssbattle.dev/daily](https://cssbattle.dev/daily).
-2. Choose **any 10 recent Daily Battles**.
+2. Choose **any 15 recent Daily Battles**.
 3. Try recreating each target using pure HTML and CSS.
 4. For each battle, create a folder like `battle-01`, `battle-02`, etc.
 5. Write your code inside `index.html`.Try to match the output as closely as possible to the original.
@@ -31,7 +31,7 @@ In this advanced edition, you'll push the limits of what’s possible with CSS w
 
 ## Submission guidelines
 
-The task folder in your repo should contain the 10 folders ( each corresponding to the respective challenge ), and each folder should contain the code and screenshot of the output. 
+The task folder in your repo should contain the 15 folders ( each corresponding to the respective challenge ), and each folder should contain the code and screenshot of the output. 
 
 ---
 
